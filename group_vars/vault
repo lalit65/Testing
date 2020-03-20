@@ -1,5 +1,5 @@
 ####
-##ansible-vault create group_vars/database/vault and put the password and encrypt the file
+##ansible-vault create group_vars/vault and put the password and encrypt the file
 
 ---
 vault_mysql_password: R0nd0m@34RT##
